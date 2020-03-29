@@ -553,6 +553,7 @@ table {
       word-wrap: break-word;
     }
     .district-heading {
+      transform: translateX(1rem);
       background: $gray-light;
       td {
         font-size: 0.75rem;
@@ -584,6 +585,7 @@ table {
     }
     max-width: 10rem;
     .district {
+      transform: translateX(1rem);
       .unknown {
         font-style: italic;
       }
